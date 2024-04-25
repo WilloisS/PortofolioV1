@@ -9,7 +9,7 @@ const Skill = () => {
     <div className='w-full mt-10'>
       <h2 className='mb-8 sm:mb-10 text-[#08a2d1] font-bold text-4xl text-center'>Skills
       </h2>
-      <div  className='mx-20 flex justify-around'>
+      <div  className='mx-20 flex justify-around flex-wrap gap-4'>
         <div>
           <h3 className='text-[#08a2d1] text-2xl font-bold flex justify-center'>Front-end</h3>
           <ul className='text-white flex flex-col mt-1'>
